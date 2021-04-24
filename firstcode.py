@@ -3,3 +3,4 @@ b = 6
 sum = c + b
 print (sum)
 print() 
+print(c) 
